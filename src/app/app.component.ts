@@ -9,3 +9,4 @@ import { FaceSnapsService } from './services/face-snaps.service';
 export class AppComponent {
   faceSnaps!: FaceSnap[];
 }
+
