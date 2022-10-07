@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./landing-page.component.css'],
 })
 export class LandingPageComponent implements OnInit {
-  imageSrc = 'images/snapface.png';
+  imageSrc =
+    'https://user.oc-static.com/upload/2021/11/11/16366495596929_snapface.png';
   constructor() {}
 
   ngOnInit() {}
